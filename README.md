@@ -1,4 +1,5 @@
 # Advanced Defi 2024
+My solutions to the Exercises ✌️
 
 [contributors-shield]: https://img.shields.io/github/contributors/cyfrin/advanced-defi-2024.svg?style=for-the-badge
 [contributors-url]: https://github.com/cyfrin/advanced-defi-2024/graphs/contributors
